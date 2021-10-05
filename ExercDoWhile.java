@@ -23,7 +23,7 @@ public class ExercDoWhile {
 			if(x!=0) 
 			{
 			soma+=x;
-			System.out.println("\nDigite um número mais um número: ");
+			System.out.println("\nDigite mais um número: ");
 			x=i.nextInt();
 			}
 			
